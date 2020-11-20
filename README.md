@@ -1,4 +1,4 @@
-# real-time_head_pose_estimate
+# real-time_head_pose_estimation
 Estimate head pose with face key points detected by dlib
 
 ### Environment
